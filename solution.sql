@@ -1,4 +1,4 @@
-CREATE DATABASE CollegDB;
+CREATE DATABASE CollegeDB;
 USE CollegeDB;
 CREATE TABLE dapartment(
   departmentID numberic(5)PRIMARY KEY,
